@@ -1,0 +1,14 @@
+### 反射
+通过Class实例获取class信息的方法   
+反射的目的：当获得某个Object实例时，我们可以获取该Object的class信息
+利用JVM动态加载class的特性，可以在运行期间根据条件加载不同的实现类
+
+### 注解
+放在Java源码的类、方法、字段、参数前的一种标签
+如何使用注解由工具决定
+Override Deprecated SuppressWarnings
+元注解，用于修饰注解 Target Retention Repeatable Inherited
+
+### 泛型
+泛型就是定义一种模板
+……
